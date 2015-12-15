@@ -9,3 +9,5 @@ Run analysis
 Save table
 
 Save small figure, thick red line
+
+Publish Paper
